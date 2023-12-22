@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 To reach me @xansochi.
 
-![Codewars](https://github.r2v.ch/codewars?user=Xansochi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<!--  ![Codewars](https://github.r2v.ch/codewars?user=Xansochi&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark) -->
+<!-- This content will not appear in the rendered Markdown -->
+[![Codewars Badge](https://www.codewars.com/users/xansochi/badges/large)](https://www.codewars.com/users/dhanushka)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xansochi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
