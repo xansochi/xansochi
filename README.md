@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xansochi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,figma,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,figma,docker,dart,express,flutter,gatsby,nextjs,tailwind,vscodegithub&theme=light)](https://skillicons.dev)
 
 [![Codewars Badge](https://www.codewars.com/users/Xansochi/badges/large)](https://www.codewars.com/users/Xansochi)
 
