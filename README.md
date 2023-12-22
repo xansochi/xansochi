@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xansochi.
 - 👀 I’m interested in Web and Mobile frontend development.
 - 📜 I’m currently learning React and NextJS.
-- 📱 I also teach Dart and Flutter.
+- 📱 I also study Dart and Flutter.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 To reach me @xansochi.
 
