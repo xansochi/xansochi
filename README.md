@@ -3,7 +3,7 @@
 - 📜 I’m currently learning React and NextJS.
 - 📱 I also study Dart and Flutter.
 - 💞️ I’m looking to collaborate on any interesting project.
-- 📫 To reach me in telegram: @[xandme](https://t.me/xandme).
+- 📫 To reach me in telegram: [@xandme](https://t.me/xandme).
 
 <!-- This content will not appear in the rendered Markdown -->
 
