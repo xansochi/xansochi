@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xansochi.
 - 👀 I’m interested in Web and Mobile frontend development.
-- 📜 I’m currently learning React and NextJS.
+- 📜 I’m currently dev with React and NextJS.
 - 📱 I also study Dart and Flutter.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 To reach me in telegram: [@xandme](https://t.me/xandme).
